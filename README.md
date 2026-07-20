@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
