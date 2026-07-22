@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -21,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
