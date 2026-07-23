@@ -7,7 +7,7 @@ class Solution:
                 d[ch]=1
             else:
                 d[ch]+=1
-        for i in arr:
+        for i in d:
             if d[i]==1:
                 count+=1
                 if count==k:
