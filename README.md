@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
