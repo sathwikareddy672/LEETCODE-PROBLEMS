@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
