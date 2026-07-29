@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
