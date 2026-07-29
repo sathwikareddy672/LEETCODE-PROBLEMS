@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1470-shuffle-the-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
