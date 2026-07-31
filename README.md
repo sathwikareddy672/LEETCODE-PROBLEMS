@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
