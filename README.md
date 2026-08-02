@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
