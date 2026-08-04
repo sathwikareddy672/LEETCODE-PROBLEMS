@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -134,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
