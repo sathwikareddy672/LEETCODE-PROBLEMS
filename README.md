@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2351-first-letter-to-appear-twice) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Prefix Sum
 |  |
 | ------- |
