@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2351-first-letter-to-appear-twice) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3110-score-of-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
