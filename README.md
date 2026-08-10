@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2413-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
