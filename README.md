@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
@@ -181,4 +183,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
