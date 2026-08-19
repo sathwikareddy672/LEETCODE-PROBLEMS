@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
