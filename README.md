@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
