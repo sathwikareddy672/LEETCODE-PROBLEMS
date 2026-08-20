@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2413-smallest-even-multiple) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
