@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2413-smallest-even-multiple) |
 ## Trie
 |  |
