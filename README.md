@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
