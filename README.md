@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
