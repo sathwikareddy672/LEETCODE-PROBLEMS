@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0771-jewels-and-stones](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1816-truncate-sentence](https://github.com/sathwikareddy672/LEETCODE-PROBLEMS/tree/master/1816-truncate-sentence) |
